@@ -1,2 +1,2 @@
 # AdaPTer
-AdaPTer-ECCV'24
+AdaPTer-ICASSP'25
