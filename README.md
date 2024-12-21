@@ -1,2 +1,1 @@
-# AdaPTer
-AdaPTer-ICASSP'25
+# Adaptive Prompt Modifier for Text-to-Image Model
